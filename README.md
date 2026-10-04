@@ -258,7 +258,7 @@ Cuando trasladé esa disciplina a la ingeniería de software, descubrí mi verda
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PereJSS&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="PereJSS Stats" />
       </td>
       <td style="border: none;" align="center">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereJSS&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="PereJSS Languages" />
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereJSS&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=php&exclude_repo=Wordpress-E-commers" alt="PereJSS Languages" />
       </td>
     </tr>
   </table>
