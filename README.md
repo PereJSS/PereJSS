@@ -39,12 +39,7 @@ Desarrollador **Full-Stack con mentalidad Backend-First**, especializado en el d
 - 🎓 **Formación:** Graduado del Máster Full Stack Developer en **Conquer Blocks**.
 - 📍 **Disponibilidad:** Ubicado en **Mallorca, España** — disponible para posiciones en **Remoto o Híbrido**.
 
----
-
-<!-- ==================== GITHUB PROFILE TROPHIES ==================== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PereJSS&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="PereJSS Trophies"/>
-</div>
+<br/>
 
 <br/>
 
