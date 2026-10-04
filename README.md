@@ -9,7 +9,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=780&lines=Pere+Joan+Sancho+Su%C3%B1er+%E2%80%A2+Full-Stack+Software+Engineer;Backend-First+Architect+%7C+Python+%26+Django+4.2+Specialist;Digital+Trust%2C+X.509+Certificates+%26+TSA+RFC3161;+6+A%C3%B1os+de+Liderazgo+Operativo+Aplicados+al+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&height=45&width=780&pause=1200&color=58A6FF&center=true&vCenter=true&lines=Pere+Joan+Sancho+Su%C3%B1er+%E2%80%A2+Full-Stack+Software+Engineer;Backend-First+Architect+%7C+Python+%26+Django+4.2+Specialist;Digital+Trust%2C+X.509+Certificates+%26+TSA+RFC3161;+6+A%C3%B1os+de+Liderazgo+Operativo+Aplicados+al+Software" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -246,10 +246,7 @@ Cuando trasladé esa disciplina a la ingeniería de software, descubrí mi verda
 
   <br/><br/>
 
-  <!-- Interactive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PereJSS&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&hide_border=false&border_color=30363D" width="100%" alt="Activity Graph"/>
 
-  <br/><br/>
 
   <!-- GitHub Metrics Grid -->
   <table border="0" style="border: none;">
